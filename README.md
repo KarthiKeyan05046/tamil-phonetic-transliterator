@@ -12,7 +12,7 @@ A TypeScript library for converting Tamil text to English transliteration. This 
 - Supports special cases and compound characters
 - Context-aware transliteration
 - Object-level conversion support
-- TypeScript support with full type definitions
+- TypeScript support with full type definitions.
 
 ## Installation
 

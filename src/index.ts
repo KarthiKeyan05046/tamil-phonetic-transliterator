@@ -1,5 +1,5 @@
-import { olipeyarppu } from "./olipeyappu";
-import transliterationRules from "./rules";
+import { olipeyarppu } from "./olipeyappu.js";
+import transliterationRules from "./rules.js";
 
 const specialCase: Record<string, string> = transliterationRules.special_case || {};
 
